@@ -1,0 +1,111 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=Windows-1254">
+<meta name=Generator content="Microsoft Word 15 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+@page WordSection1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 70.85pt 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=TR>
+
+<div class=WordSection1>
+
+<p class=MsoNormal align=center style='text-align:center'><b><span
+style='font-size:20.0pt;line-height:115%;font-family:"Times New Roman",serif'>MARFAN
+SYNDROME</span></b></p>
+
+<p class=MsoNormal align=center style='text-align:center'><span
+style='position:absolute;z-index:-1895826433;left:0px;margin-left:-32px;
+margin-top:419px;width:1406px;height:810px'><img width=1406 height=810
+src="marfan_dosyalar/image001.gif"></span><img width=605 height=616 id="Resim 1"
+src="marfan_dosyalar/image002.jpg"></p>
+
+<p class=MsoNormal><b><span style='font-size:12.0pt;line-height:115%;
+font-family:"Times New Roman",serif'>What is the Marfan Syndrome?</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>There
+are a very wide connective tissue that holds the cells together and shapes the
+tissue and connect them and organs together in our body. Also, the connective
+tissue have the important role to help improving the body properly. </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>Marfan
+syndrome is a genetic disorder that affects the connective tissue of the body.
+Fibrillin is the important material of elastic tissue and the formation of the
+fibril occur defect in marfan syndrome. The defect causes inability the support
+task of the connective tissue. </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>Because
+of the connective tissue is found throughout of the body, Marfan syndrome can
+affect many different parts of the body. It most commonly affects the heart,
+eyes, blood vessels and skeleton. For instance, aortic enlargement can be
+life-threatening. The lungs, skin and nervous system may also be affected.
+Marfan syndrome does not affect intelligence.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>Mutations
+in the FBN1 gene cause Marfan syndrome. The FBN1 gene provides instructions for
+making a protein called fibrillin-1. Fibrillin-1 attaches to other fibrillin-1
+proteins and other molecules to form threadlike filaments called microfibrils.
+Microfibrils become part of the fibers that provide strength and flexibility to
+connective tissue.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>Microfibrils
+store a protein called transforming growth factor beta (TGF-&#946;), a critical
+growth factor. TGF-&#946; affects development by helping to control the growth
+and division of cells, the process by which cells mature to carry out specific
+functions (differentiation), cell movement, and the self-destruction of cells.
+Microfibrils help regulate the availability of TGF-&#946;, which is inactivated
+when stored in microfibrils and activated when released. A mutation in the FBN1
+gene can reduce the amount of functional fibrillin-1 that is available to form
+microfibrils, which leads to decreased microfibril formation. As a result,
+excess growth factors are released and elasticity in many tissues is decreased,
+leading to overgrowth and instability of tissues.</span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:"Times New Roman",serif'>Who has Marfan syndrome?</span></b></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>About
+1 in 5,000 people have Marfan syndrome. This syndrome affects men, women, and
+children, and has been found among people of all races and ethnic backgrounds.
+About 3 out of 4 people with Marfan syndrome inherit it. But, when this happens
+it is called a spontaneous mutation, some people with Marfan syndrome are the
+first in their family to have it. </span></p>
+
+<p class=MsoNormal style='line-height:150%'><span style='font-family:"Times New Roman",serif'>There
+is a 50 percent chance that a person with Marfan syndrome will pass along the
+genetic mutation each time they have a child.                                                                                                                                                                                  </span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</body>
+
+</html>
